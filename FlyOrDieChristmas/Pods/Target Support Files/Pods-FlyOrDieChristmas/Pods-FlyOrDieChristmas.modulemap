@@ -1,0 +1,6 @@
+framework module Pods_FlyOrDieChristmas {
+  umbrella header "Pods-FlyOrDieChristmas-umbrella.h"
+
+  export *
+  module * { export * }
+}
